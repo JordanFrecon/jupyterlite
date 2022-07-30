@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-30T15:06:33.498237Z",
+      "format": null,
+      "last_modified": "2022-07-30T15:06:33.498237Z",
+      "mimetype": null,
+      "name": "session-1",
+      "path": "data-analysis/session-1",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-30T15:06:33.490237Z",
+  "format": "json",
+  "last_modified": "2022-07-30T15:06:33.490237Z",
+  "mimetype": null,
+  "name": "data-analysis",
+  "path": "data-analysis",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

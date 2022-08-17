@@ -2,32 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-17T09:15:26.291652Z",
+      "created": "2022-08-17T09:22:46.589887Z",
       "format": null,
-      "last_modified": "2022-08-17T09:15:26.291652Z",
+      "last_modified": "2022-08-17T09:22:46.589887Z",
       "mimetype": null,
       "name": "session-1",
       "path": "data-analysis/session-1",
       "size": null,
       "type": "directory",
       "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-08-17T09:15:26.295652Z",
-      "format": null,
-      "last_modified": "2022-08-17T09:15:26.295652Z",
-      "mimetype": null,
-      "name": "use-cases-DA-1",
-      "path": "data-analysis/use-cases-DA-1",
-      "size": null,
-      "type": "directory",
-      "writable": true
     }
   ],
-  "created": "2022-08-17T09:15:26.295652Z",
+  "created": "2022-08-17T09:22:46.585887Z",
   "format": "json",
-  "last_modified": "2022-08-17T09:15:26.295652Z",
+  "last_modified": "2022-08-17T09:22:46.585887Z",
   "mimetype": null,
   "name": "data-analysis",
   "path": "data-analysis",

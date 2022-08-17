@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-17T11:26:16.665940Z",
+      "format": null,
+      "last_modified": "2022-08-17T11:25:20.124910Z",
+      "mimetype": null,
+      "name": "session-2.ipynb",
+      "path": "data-analysis/session-2/session-2.ipynb",
+      "size": 15622,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-17T11:26:16.665940Z",
+      "format": null,
+      "last_modified": "2022-08-17T11:25:20.124910Z",
+      "mimetype": "text/x-python",
+      "name": "plots.py",
+      "path": "data-analysis/session-2/plots.py",
+      "size": 1868,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-17T11:26:16.665940Z",
+      "format": null,
+      "last_modified": "2022-08-17T11:25:20.124910Z",
+      "mimetype": "text/x-python",
+      "name": "datasets.py",
+      "path": "data-analysis/session-2/datasets.py",
+      "size": 1627,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-17T11:26:16.665940Z",
+  "format": "json",
+  "last_modified": "2022-08-17T11:26:16.665940Z",
+  "mimetype": null,
+  "name": "session-2",
+  "path": "data-analysis/session-2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

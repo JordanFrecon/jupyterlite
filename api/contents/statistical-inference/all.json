@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-01-05T10:08:09.995883Z",
+      "format": null,
+      "last_modified": "2023-01-05T10:08:09.995883Z",
+      "mimetype": null,
+      "name": "monza",
+      "path": "statistical-inference/monza",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-01-05T10:08:09.995883Z",
+  "format": "json",
+  "last_modified": "2023-01-05T10:08:09.995883Z",
+  "mimetype": null,
+  "name": "statistical-inference",
+  "path": "statistical-inference",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

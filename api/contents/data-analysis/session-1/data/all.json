@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-17T11:39:44.458150Z",
+      "created": "2023-01-05T10:08:09.971883Z",
       "format": null,
-      "last_modified": "2022-08-17T11:38:43.036946Z",
+      "last_modified": "2023-01-05T10:07:09.928853Z",
       "mimetype": "text/tab-separated-values",
       "name": "countries.tsv",
       "path": "data-analysis/session-1/data/countries.tsv",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-17T11:39:44.458150Z",
+  "created": "2023-01-05T10:08:09.971883Z",
   "format": "json",
-  "last_modified": "2022-08-17T11:39:44.458150Z",
+  "last_modified": "2023-01-05T10:08:09.971883Z",
   "mimetype": null,
   "name": "data",
   "path": "data-analysis/session-1/data",

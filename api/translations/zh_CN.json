@@ -115,7 +115,89 @@
         "language": "zh-CN",
         "plural_forms": "nplurals=1; plural=0;",
         "version": "jupyterlab"
-      }
+      },
+      "%2%% used on %1 CPU": [
+        "\u5df2\u4f7f\u7528 %2%% / %1 CPU",
+        "\u5df2\u4f7f\u7528 %2%% / %1 CPU"
+      ],
+      "Active:": [
+        "\u6d3b\u52a8\u4e2d\uff1a"
+      ],
+      "Available:": [
+        "\u53ef\u7528\uff1a"
+      ],
+      "CPU:": [
+        "CPU\uff1a"
+      ],
+      "Current memory usage": [
+        "\u5f53\u524d\u5185\u5b58\u7528\u91cf"
+      ],
+      "Free:": [
+        "\u7a7a\u95f2\uff1a"
+      ],
+      "Host CPU": [
+        "\u4e3b\u673a CPU"
+      ],
+      "Host Virtual Memory": [
+        "\u4e3b\u673a\u865a\u62df\u5185\u5b58"
+      ],
+      "Inactive:": [
+        "\u975e\u6d3b\u8dc3\uff1a"
+      ],
+      "Kernel Host:": [
+        "\u5185\u6838\u4e3b\u673a\uff1a"
+      ],
+      "Kernel ID:": [
+        "\u5185\u6838 ID\uff1a"
+      ],
+      "Kernel Resource": [
+        "\u5185\u6838\u8d44\u6e90"
+      ],
+      "Kernel Usage": [
+        "\u5185\u6838\u7528\u91cf"
+      ],
+      "Kernel usage": [
+        "\u5185\u6838\u7528\u91cf"
+      ],
+      "Kernel usage details are not available": [
+        "\u5185\u6838\u7528\u91cf\u8be6\u7ec6\u4fe1\u606f\u4e0d\u53ef\u7528"
+      ],
+      "Kernel usage is not available": [
+        "\u5185\u6838\u7528\u91cf\u4fe1\u606f\u4e0d\u53ef\u7528"
+      ],
+      "Mem: %1 %2": [
+        "\u5185\u5b58\uff1a%1 %2"
+      ],
+      "Mem: %1 / %2 %3": [
+        "\u5185\u5b58\uff1a%1 / %2 %3"
+      ],
+      "Memory:": [
+        "\u5185\u5b58\uff1a"
+      ],
+      "Notebook:": [
+        "\u7b14\u8bb0\u672c\uff1a"
+      ],
+      "Percent used:": [
+        "\u4f7f\u7528\u767e\u5206\u6bd4\uff1a"
+      ],
+      "Please check with your system administrator that you are running IPyKernel version 6.10.0 or above.": [
+        "\u8bf7\u4e0e\u60a8\u7684\u7cfb\u7edf\u7ba1\u7406\u5458\u68c0\u67e5\u60a8\u6b63\u5728\u8fd0\u884c\u7684 IPyKernel \u4e3a 6.10.0 \u6216\u66f4\u9ad8\u7684\u7248\u672c\u3002"
+      ],
+      "Process ID:": [
+        "\u8fdb\u7a0b ID\uff1a"
+      ],
+      "Timestamp:": [
+        "\u65f6\u95f4\u6233\uff1a"
+      ],
+      "Total:": [
+        "\u603b\u8ba1\uff1a"
+      ],
+      "Used:": [
+        "\u5df2\u7528\uff1a"
+      ],
+      "Wired:": [
+        "\u8fde\u7ebf\uff1a"
+      ]
     },
     "jupyterlab": {
       "": {
@@ -181,6 +263,10 @@
       ],
       "%1 new messages, %2 log entries for %3": [
         "\u6709\u6765\u81ea %3 \u7684 %1 \u6761\u65b0\u6d88\u606f\uff0c%2 \u6761\u65e5\u5fd7\u6761\u76ee"
+      ],
+      "%1 notification": [
+        "%1 \u6761\u901a\u77e5",
+        "%1 \u6761\u901a\u77e5"
       ],
       "A build is needed to include the latest changes": [
         "\u9700\u8981\u6784\u5efa\u6765\u5305\u542b\u6700\u65b0\u7684\u66f4\u6539"
@@ -489,6 +575,12 @@
       "Close and Shutdown Notebook": [
         "\u5173\u95ed\u5e76\u7ec8\u6b62\u7b14\u8bb0\u672c\u670d\u52a1"
       ],
+      "Close and save": [
+        "\u5173\u95ed\u5e76\u4fdd\u5b58"
+      ],
+      "Close without saving": [
+        "\u4e0d\u4fdd\u5b58\u5e76\u5173\u95ed"
+      ],
       "Code": [
         "\u4ee3\u7801"
       ],
@@ -527,6 +619,9 @@
       ],
       "Complete!": [
         "\u5b8c\u6210\uff01"
+      ],
+      "Confirmation": [
+        "\u786e\u8ba4"
       ],
       "Connected": [
         "\u5df2\u8fde\u63a5"
@@ -705,11 +800,26 @@
       "Dismiss": [
         "\u5ffd\u7565"
       ],
+      "Dismiss a notification": [
+        "\u5ffd\u7565\u8fd9\u6761\u901a\u77e5"
+      ],
+      "Dismiss all notifications": [
+        "\u6e05\u9664\u6240\u6709\u901a\u77e5"
+      ],
+      "Dismiss notification": [
+        "\u6e05\u9664\u901a\u77e5"
+      ],
       "Distributions": [
         "\u53d1\u884c\u7248"
       ],
       "Distrust HTML": [
         "\u4e0d\u4fe1\u4efb\u7684 HTML"
+      ],
+      "Do not ask me again.": [
+        "\u4e0d\u518d\u8be2\u95ee"
+      ],
+      "Do not check for updates": [
+        "\u4e0d\u8981\u68c0\u67e5\u66f4\u65b0"
       ],
       "Do you want to leave without saving?": [
         "\u9875\u9762\u672a\u4fdd\u5b58\uff0c\u786e\u5b9a\u79bb\u5f00\uff1f"
@@ -719,9 +829,6 @@
       ],
       "Document is read-only": [
         "\u6587\u6863\u4e3a\u53ea\u8bfb\u72b6\u6001"
-      ],
-      "Don't ask me again.": [
-        "\u4e0b\u6b21\u4e0d\u518d\u8be2\u95ee\u3002"
       ],
       "Download": [
         "\u4e0b\u8f7d"
@@ -756,6 +863,9 @@
       "Elapsed time: %1 second": [
         "\u8017\u65f6\uff1a%1 \u79d2",
         "\u8017\u65f6\uff1a%1 \u79d2"
+      ],
+      "Emit a notification": [
+        "\u53d1\u51fa\u4e00\u6761\u901a\u77e5"
       ],
       "Enable": [
         "\u542f\u7528"
@@ -974,8 +1084,17 @@
       "Help": [
         "\u5e2e\u52a9"
       ],
+      "Hide": [
+        "\u9690\u85cf"
+      ],
       "Hide Selectors": [
         "\u9690\u85cf\u9009\u62e9\u5668"
+      ],
+      "Hide notification": [
+        "\u9690\u85cf\u901a\u77e5"
+      ],
+      "Hide notifications": [
+        "\u9690\u85cf\u901a\u77e5"
       ],
       "Hub": [
         "Hub"
@@ -986,8 +1105,14 @@
       "Idle": [
         "\u7a7a\u95f2"
       ],
+      "If checked, no confirmation to close a document will be asked in the future.": [
+        "\u5982\u679c\u9009\u4e2d\u6b64\u9879\uff0c\u4ee5\u540e\u5173\u95ed\u6587\u6863\u4e0d\u518d\u8981\u6c42\u786e\u8ba4\u3002"
+      ],
       "If checked, you will not be asked to rename future untitled files when saving them.": [
         "\u5982\u679c\u9009\u4e2d\u6b64\u9879\uff0c\u4e4b\u540e\u4fdd\u5b58\u65e0\u6807\u9898\u6587\u4ef6\u65f6\u4e0d\u4f1a\u88ab\u8981\u6c42\u91cd\u547d\u540d\u3002"
+      ],
+      "If pressed, you will not be prompted if a new JupyterLab version is found.": [
+        "\u5982\u679c\u9009\u4e2d\u6b64\u9879\uff0c\u5373\u4f7f\u53d1\u73b0\u6709\u65b0\u7248\u672c\u7684 JupyterLab\uff0c\u4e5f\u4e0d\u4f1a\u63d0\u793a\u60a8\u3002"
       ],
       "Ignore": [
         "\u5ffd\u7565"
@@ -997,6 +1122,9 @@
       ],
       "Image Viewer": [
         "\u56fe\u50cf\u67e5\u770b\u5668"
+      ],
+      "In collaborative mode, the document is saved automatically after every change": [
+        "\u5728\u534f\u4f5c\u6a21\u5f0f\u4e0b\uff0c\u6587\u6863\u5728\u6bcf\u6b21\u66f4\u6539\u540e\u90fd\u81ea\u52a8\u4fdd\u5b58"
       ],
       "Increase Code Font Size": [
         "\u589e\u5927\u4ee3\u7801\u5b57\u53f7"
@@ -1274,6 +1402,9 @@
       "Neither theme %1 nor default %2 loaded.": [
         "\u4e3b\u9898 %1 \u53ca\u9ed8\u8ba4 %2 \u5747\u672a\u52a0\u8f7d\u3002"
       ],
+      "Never show this notification again.": [
+        "\u4e0d\u518d\u663e\u793a\u6b64\u901a\u77e5\u3002"
+      ],
       "New Console": [
         "\u65b0\u5efa\u63a7\u5236\u53f0"
       ],
@@ -1322,6 +1453,9 @@
       "Next": [
         "\u4e0b\u4e00\u6b65"
       ],
+      "No": [
+        "\u5426"
+      ],
       "No Kernel": [
         "\u65e0\u5185\u6838"
       ],
@@ -1363,6 +1497,9 @@
       ],
       "No log messages.": [
         "\u65e0\u65e5\u5fd7\u6d88\u606f\u3002"
+      ],
+      "No notifications": [
+        "\u65e0\u901a\u77e5"
       ],
       "No properties to inspect.": [
         "\u6ca1\u6709\u8981\u67e5\u770b\u7684\u5c5e\u6027\u3002"
@@ -1409,11 +1546,20 @@
       "Notes": [
         "\u5907\u6ce8"
       ],
+      "Notification is described by {id: string, message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}.": [
+        "\u63cf\u8ff0\u901a\u77e5\u7684\u683c\u5f0f\u662f{id: string, message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}\u3002"
+      ],
+      "Notification is described by {message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}.": [
+        "\u63cf\u8ff0\u901a\u77e5\u7684\u683c\u5f0f\u662f {message: string, type?: string, options?: {autoClose?: number | false, actions: {label: string, commandId: string, args?: ReadOnlyJSONObject, caption?: string, className?: string}[], data?: ReadOnlyJSONValue}}\u3002"
+      ],
       "OK": [
         "\u786e\u5b9a"
       ],
       "Ok": [
         "\u786e\u8ba4"
+      ],
+      "Online Collaborators": [
+        "\u5728\u7ebf\u534f\u4f5c\u8005"
       ],
       "Open": [
         "\u6253\u5f00"
@@ -1481,6 +1627,9 @@
       "Open in the Main Area": [
         "\u5728\u4e3b\u533a\u57df\u6253\u5f00"
       ],
+      "Open privacy policy": [
+        "\u6253\u5f00\u9690\u79c1\u653f\u7b56"
+      ],
       "Open the Hub control panel in a new browser tab": [
         "\u5728\u65b0\u7684\u6e38\u89c8\u5668\u9009\u9879\u5361\u4e2d\u6253\u5f00 Hub \u63a7\u5236\u9762\u677f"
       ],
@@ -1532,17 +1681,29 @@
       "Path: %1\nKernel: %2": [
         "\u8def\u5f84\uff1a%1\n\u5185\u6838\uff1a%2"
       ],
+      "Pause": [
+        "\u6682\u505c"
+      ],
+      "Please confirm you want to close \"%1\".": [
+        "\u8bf7\u786e\u8ba4\u60a8\u60f3\u8981\u5173\u95ed\u201c%1\u201d\u3002"
+      ],
       "Please confirm you want to shut down JupyterLab.": [
         "\u8bf7\u786e\u8ba4\u60a8\u60f3\u8981\u5173\u95ed JupyterLab\u3002"
       ],
       "Please open your browser JavaScript console for bug report instructions": [
         "\u8bf7\u6253\u5f00\u60a8\u7684\u6d4f\u89c8\u5668 JavaScript \u63a7\u5236\u53f0\u4ee5\u83b7\u53d6\u9519\u8bef\u62a5\u544a\u8bf4\u660e"
       ],
+      "Please read the privacy policy.": [
+        "\u8bf7\u9605\u8bfb\u9690\u79c1\u653f\u7b56\u3002"
+      ],
       "Presentation Mode": [
         "\u6f14\u793a\u6a21\u5f0f"
       ],
       "Print\u2026": [
         "\u6253\u5370\u2026"
+      ],
+      "Privacy policies": [
+        "\u9690\u79c1\u653f\u7b56"
       ],
       "Property Inspector": [
         "\u5c5e\u6027\u68c0\u67e5\u5668"
@@ -1823,8 +1984,8 @@
       "Run Selected Cells": [
         "\u8fd0\u884c\u9009\u4e2d\u7684\u5355\u5143\u683c"
       ],
-      "Run Selected Cells and Don't Advance": [
-        "\u4ec5\u8fd0\u884c\u9009\u4e2d\u7684\u5355\u5143\u683c\u4e14\u4e0d\u524d\u8fdb"
+      "Run Selected Cells and Do not Advance": [
+        "\u8fd0\u884c\u9009\u5b9a\u7684\u6240\u6709\u5355\u5143\u683c\u4e14\u4e0d\u518d\u7ee7\u7eed"
       ],
       "Run Selected Cells and Insert Below": [
         "\u8fd0\u884c\u9009\u4e2d\u7684\u5355\u5143\u683c\u5e76\u5728\u4e0b\u9762\u63d2\u5165"
@@ -2042,6 +2203,9 @@
       "Show Markdown Preview": [
         "\u663e\u793a Markdown \u9884\u89c8"
       ],
+      "Show Notifications": [
+        "\u663e\u793a\u901a\u77e5"
+      ],
       "Show Right Sidebar": [
         "\u663e\u793a\u53f3\u4fa7\u8fb9\u680f"
       ],
@@ -2211,8 +2375,8 @@
       "Thanks for trying out JupyterLab's extension manager.\nThe JupyterLab development team is excited to have a robust\nthird-party extension community.\nHowever, we cannot vouch for every extension,\nand some may introduce security risks.\nDo you want to continue?": [
         "\u611f\u8c22\u60a8\u5c1d\u8bd5\u4e86 JupyterLab \u7684\u6269\u5c55\u7ba1\u7406\u5668\u3002JupyterLab \u5f00\u53d1\u56e2\u961f\u5f88\u9ad8\u5174\u6709\u4e00\u4e2a\u5f3a\u5927\u7684\u7b2c\u4e09\u65b9\u6269\u5c55\u793e\u533a\u3002\u7136\u800c\uff0c\u6211\u4eec\u4e0d\u80fd\u5ba1\u6838\u6bcf\u4e2a\u6269\u5c55\uff0c\u5176\u4e2d\u4e00\u4e9b\u6269\u5c55\u53ef\u80fd\u4f1a\u5e26\u6765\u5b89\u5168\u98ce\u9669\u3002\u60a8\u60f3\u8981\u7ee7\u7eed\u5417\uff1f"
       ],
-      "The JupyterLab development team is excited to have a robust\nthird-party extension community. However, we do not review\nthird-party extensions, and some extensions may introduce security\nrisks or contain malicious code that runs on your machine.": [
-        "JupyterLab \u5f00\u53d1\u56e2\u961f\u5f88\u9ad8\u5174\u6709\u4e00\u4e2a\u5f3a\u5927\u7684\u7b2c\u4e09\u65b9\u6269\u5c55\u793e\u533a\u3002\u7136\u800c\uff0c\u6211\u4eec\u5e76\u4e0d\u4f1a\u5ba1\u67e5\u7b2c\u4e09\u65b9\u6269\u5c55\uff0c\u4e00\u4e9b\u6269\u5c55\u53ef\u80fd\u4f1a\u5e26\u6765\u5b89\u5168\u98ce\u9669\u6216\u5305\u542b\u60a8\u80fd\u5728\u60a8\u673a\u5668\u4e0a\u8fd0\u884c\u7684\u6076\u610f\u4ee3\u7801\u3002"
+      "The JupyterLab development team is excited to have a robust\nthird-party extension community. However, we do not review\nthird-party extensions, and some extensions may introduce security\nrisks or contain malicious code that runs on your machine. Moreover in order\nto work, this panel needs to fetch data from web services.": [
+        "JupyterLab \u5f00\u53d1\u56e2\u961f\u5f88\u9ad8\u5174\u6709\u4e00\u4e2a\u5f3a\u5927\u7684\u7b2c\u4e09\u65b9\u6269\u5c55\u793e\u533a\u3002\u7136\u800c\uff0c\u6211\u4eec\u5e76\u4e0d\u4f1a\u5ba1\u67e5\u7b2c\u4e09\u65b9\u6269\u5c55\uff0c\u67d0\u4e9b\u6269\u5c55\u53ef\u80fd\u4f1a\u5e26\u6765\u5b89\u5168\u98ce\u9669\u6216\u8005\u5305\u542b\u80fd\u5728\u60a8\u673a\u5668\u4e0a\u8fd0\u884c\u7684\u6076\u610f\u4ee3\u7801\u3002\u6b64\u5916\uff0c\u4e3a\u4e86\u6b63\u5e38\u5de5\u4f5c\uff0c\u5f53\u524d\u6269\u5c55\u9700\u8981\u4ece\u5916\u90e8 Web \u670d\u52a1\u83b7\u53d6\u6570\u636e\u3002"
       ],
       "The cell has not been executed to avoid kernel deadlock as there is another pending input! Submit your pending input and try again.": [
         "\u5f53\u524d\u542b\u6709\u672a\u88ab\u6267\u884c\u7684\u8f93\u5165\u5185\u5bb9\uff0c\u4e3a\u4e86\u9632\u6b62\u5185\u6838\u6b7b\u9501\uff0c\u6b64\u5355\u5143\u683c\u5c1a\u672a\u88ab\u6267\u884c\u3002\u6e05\u63d0\u4ea4\u60a8\u5f53\u524d\u672a\u6267\u884c\u7684\u8f93\u5165\u7136\u540e\u518d\u8bd5\u3002"
@@ -2343,6 +2507,9 @@
       "Update": [
         "\u66f4\u65b0"
       ],
+      "Update a notification": [
+        "\u66f4\u65b0\u901a\u77e5"
+      ],
       "Updating extensions list": [
         "\u6b63\u5728\u66f4\u65b0\u6269\u5c55\u5217\u8868"
       ],
@@ -2373,6 +2540,12 @@
       "User Preferences": [
         "\u7528\u6237\u504f\u597d\u8bbe\u7f6e"
       ],
+      "User info": [
+        "\u7528\u6237\u4fe1\u606f"
+      ],
+      "User information": [
+        "\u7528\u6237\u4fe1\u606f"
+      ],
       "Variables": [
         "\u53d8\u91cf"
       ],
@@ -2400,11 +2573,17 @@
       "Workspace loader": [
         "\u5de5\u4f5c\u533a\u52a0\u8f7d\u5668"
       ],
+      "Would you like to receive official Jupyter news?\nPlease read the privacy policy.": [
+        "\u60a8\u60f3\u8981\u63a5\u6536\u5b98\u65b9\u7684Jupyter\u65b0\u95fb\u5417\uff1f\n\u8bf7\u9605\u8bfb\u9690\u79c1\u653f\u7b56\u3002"
+      ],
       "Wrap Words": [
         "\u6362\u884c"
       ],
       "YAML File": [
         "YAML \u6587\u4ef6"
+      ],
+      "Yes": [
+        "\u662f"
       ],
       "You have shut down the Jupyter server. You can now close this tab.": [
         "\u60a8\u5df2\u5173\u95ed Jupyter \u670d\u52a1\u8fdb\u7a0b\u3002\u60a8\u73b0\u5728\u53ef\u4ee5\u5173\u95ed\u6b64\u9009\u9879\u5361\u3002"
@@ -2658,6 +2837,12 @@
       "schema\u0004File editor tooltip settings.": [
         "\u6587\u4ef6\u7f16\u8f91\u5668\u5de5\u5177\u63d0\u793a\u8bbe\u7f6e\u3002"
       ],
+      "schema\u0004HTML Sanitizer": [
+        "HTML \u51c0\u5316\u5668"
+      ],
+      "schema\u0004HTML Sanitizer settings.": [
+        "HTML \u51c0\u5316\u5668\u8bbe\u7f6e\u3002"
+      ],
       "schema\u0004HTML Viewer": [
         "HTML \u67e5\u770b\u5668"
       ],
@@ -2769,6 +2954,12 @@
       "schema\u0004Notebook tooltip settings.": [
         "\u7b14\u8bb0\u672c\u63d0\u793a\u8bbe\u7f6e\u3002"
       ],
+      "schema\u0004Notifications": [
+        "\u901a\u77e5"
+      ],
+      "schema\u0004Notifications settings.": [
+        "\u901a\u77e5\u8bbe\u7f6e"
+      ],
       "schema\u0004Print": [
         "\u6253\u5370"
       ],
@@ -2847,6 +3038,9 @@
       "settings\u0004Add accessibility elements for use with screen readers.": [
         "\u6dfb\u52a0\u7528\u4e8e\u5c4f\u5e55\u9605\u8bfb\u5668\u7684\u8f85\u52a9\u5143\u7d20\u3002"
       ],
+      "settings\u0004Allowed URL Scheme": [
+        "\u5141\u8bb8\u7684 URL \u534f\u8bae"
+      ],
       "settings\u0004An item is defined by a 'name', a 'command' name, and an 'icon' name": [
         "\u5b9a\u4e49\u5355\u5143\u683c\u5de5\u5177\u680f\u7684\u9879\u76ee\uff0c\u9700\u8981\u6307\u5b9a\u2018\u552f\u4e00\u7684\u540d\u5b57\u2019\u3001\u2018\u547d\u4ee4 id\u2019 \u548c\u2018\u56fe\u6807 id\u2019\u3002"
       ],
@@ -2855,6 +3049,9 @@
       ],
       "settings\u0004Application-level visual styling theme": [
         "\u5e94\u7528\u7a0b\u5e8f\u7ea7\u89c6\u89c9\u6837\u5f0f\u4e3b\u9898"
+      ],
+      "settings\u0004Ask for confirmation to close a document": [
+        "\u5173\u95ed\u6587\u6863\u524d\u8fdb\u884c\u786e\u8ba4"
       ],
       "settings\u0004Auto Closing Brackets": [
         "\u81ea\u52a8\u95ed\u5408\u62ec\u53f7"
@@ -2874,8 +3071,14 @@
       "settings\u0004CSS file defining the corresponding\n.cm-s-[name] styles is loaded": [
         "\u5b9a\u4e49\u5bf9\u5e94\u7684 .cm-s-[name] \u6837\u5f0f\u7684\nCSS \u6587\u4ef6\u5df2\u52a0\u8f7d"
       ],
+      "settings\u0004CSV Viewer": [
+        "CSV \u67e5\u770b\u5668"
+      ],
       "settings\u0004CSV viewer toolbar items": [
         "CSV \u67e5\u770b\u5668\u5de5\u5177\u680f\u9879\u76ee"
+      ],
+      "settings\u0004Check for JupyterLab updates": [
+        "\u68c0\u67e5JupyterLab \u66f4\u65b0"
       ],
       "settings\u0004Close on exit": [
         "\u9000\u51fa\u65f6\u5173\u95ed"
@@ -2897,6 +3100,9 @@
       ],
       "settings\u0004Collapse the debugger sidebar when disabling the debugger on a document.": [
         "\u5f53\u7981\u7528\u6587\u6863\u4e0a\u7684\u8c03\u8bd5\u5668\u65f6\uff0c\u6298\u53e0\u8c03\u8bd5\u5668\u4fa7\u8fb9\u680f\u3002"
+      ],
+      "settings\u0004Command Palette": [
+        "\u547d\u4ee4\u9762\u677f"
       ],
       "settings\u0004Command arguments": [
         "\u547d\u4ee4\u53c2\u6570"
@@ -2967,14 +3173,17 @@
       "settings\u0004Document Manager": [
         "\u6587\u6863\u7ba1\u7406\u5668"
       ],
+      "settings\u0004Document Search": [
+        "\u6587\u6863\u641c\u7d22"
+      ],
       "settings\u0004Editor": [
         "\u7f16\u8f91\u5668"
       ],
       "settings\u0004Editor Configuration": [
         "\u7f16\u8f91\u5668\u914d\u7f6e"
       ],
-      "settings\u0004Enable CDN": [
-        "\u5f00\u542f CDN"
+      "settings\u0004Enable Content Delivery Network (CDN)": [
+        "\u542f\u7528\u5185\u5bb9\u53d1\u9001\u7f51\u7edc (CDN)"
       ],
       "settings\u0004Enable h1 numbering": [
         "\u542f\u7528 h1 \u7f16\u53f7"
@@ -2991,14 +3200,14 @@
       "settings\u0004Enables extension manager (requires Node.js/npm).\nWARNING: installing untrusted extensions may be unsafe.": [
         "\u542f\u7528\u6269\u5c55\u7ba1\u7406\u5668\uff08\u9700\u8981 Node.js/npm\uff09\u3002\n\u8b66\u544a: \u5b89\u88c5\u4e0d\u4fe1\u4efb\u7684\u6269\u5c55\u53ef\u80fd\u4e0d\u5b89\u5168\u3002"
       ],
-      "settings\u0004Enables using the CDN to fetch full package data.  Otherwise, the configured NPM registry will be used. Due to a lack of CORS support by NPM registry, only disable if supplying a custom registry": [
-        "\u542f\u7528\u901a\u8fc7 CDN \u83b7\u53d6\u5b8c\u6574\u7684\u5305\u6570\u636e\u3002\u5426\u5219\uff0c\u5c06\u4f7f\u7528\u5df2\u914d\u7f6e\u7684 NPM \u6e90\u3002\u7531\u4e8e NPM \u6e90\u7f3a\u5c11 CORS \u652f\u6301\uff0c\u8bf7\u4ec5\u5728\u63d0\u4f9b\u81ea\u5b9a\u4e49\u6e90\u65f6\u7981\u7528\u8be5\u9009\u9879"
-      ],
       "settings\u0004Experimental settings to enable the undo/redo on the notebook document level.": [
         "\u7528\u4e8e\u5f00\u542f\u7b14\u8bb0\u672c\u6587\u6863\u7ea7\u522b\u64a4\u9500/\u91cd\u505a\u7684\u5b9e\u9a8c\u6027\u8bbe\u7f6e\u3002"
       ],
       "settings\u0004Extension Manager": [
         "\u6269\u5c55\u7ba1\u7406\u5668"
+      ],
+      "settings\u0004Fetch official Jupyter news": [
+        "\u83b7\u53d6Jupyter\u5b98\u65b9\u65b0\u95fb"
       ],
       "settings\u0004File Browser": [
         "\u6587\u4ef6\u6d4f\u89c8\u5668"
@@ -3029,6 +3238,9 @@
       ],
       "settings\u0004Global setting to define the rendering layout in notebooks. 'default' or 'side-by-side' are supported.": [
         "\u7528\u6765\u5b9a\u4e49\u7b14\u8bb0\u672c\u4e2d\u6e32\u67d3\u5e03\u5c40\u7684\u5168\u5c40\u8bbe\u7f6e\u3002\u652f\u6301\u300cdefault\u300d\u6216\u300cside-by-side\u300d\u3002"
+      ],
+      "settings\u0004HTML Viewer": [
+        "HTML \u67e5\u770b\u5668"
       ],
       "settings\u0004HTML viewer toolbar items": [
         "HTML \u67e5\u770b\u5668\u5de5\u5177\u680f\u9879\u76ee"
@@ -3165,8 +3377,8 @@
       "settings\u0004Modal Command Palette": [
         "\u6a21\u6001\u547d\u4ee4\u9762\u677f"
       ],
-      "settings\u0004NPM CDN": [
-        "NPM CDN"
+      "settings\u0004NPM Content Delivery Network (CDN)": [
+        "NPM \u5185\u5bb9\u5206\u53d1\u7f51\u7edc (CDN)"
       ],
       "settings\u0004NPM Registry": [
         "NPM \u6e90"
@@ -3261,6 +3473,9 @@
       "settings\u0004Rulers": [
         "\u6807\u5c3a"
       ],
+      "settings\u0004Scheme allowed by the HTML sanitizer.": [
+        "HTML \u51c0\u5316\u5668\u4e2d\u5141\u8bb8\u7684\u534f\u8bae"
+      ],
       "settings\u0004Screen Reader Mode": [
         "\u5c4f\u5e55\u9605\u8bfb\u5668\u6a21\u5f0f"
       ],
@@ -3285,8 +3500,8 @@
       "settings\u0004Selection Pointer": [
         "\u9009\u62e9\u6307\u9488"
       ],
-      "settings\u0004Set the interface display language. Examples: 'es_CO', 'fr'.": [
-        "\u8bbe\u7f6e\u754c\u9762\u663e\u793a\u8bed\u8a00\u3002\u4f8b\u5982\uff1a'es_CO'\u3001'fr'\u3002"
+      "settings\u0004Set the interface display language. Examples: 'es_CO', 'fr_FR'. Set 'default' to use the server default locale. Requires corresponding language pack to be installed.": [
+        "\u8bbe\u7f6e\u754c\u9762\u663e\u793a\u8bed\u8a00\u3002\u4f8b\u5982: 'es_CO', 'fr_FR'\u3002\u8bbe\u7f6e 'default' \u4f7f\u7528\u670d\u52a1\u5668\u9ed8\u8ba4\u8bed\u8a00\u3002\u9700\u8981\u5b89\u88c5\u4e0e\u8bbe\u7f6e\u5bf9\u5e94\u7684\u8bed\u8a00\u5305\u3002"
       ],
       "settings\u0004Set the type of editor to use while editing your settings.": [
         "\u8bbe\u5b9a\u7f16\u8f91\u8bbe\u7f6e\u65f6\u6240\u7528\u7684\u7f16\u8f91\u5668\u7c7b\u578b\u3002"
@@ -3348,6 +3563,9 @@
       "settings\u0004Sidebar": [
         "\u4fa7\u8fb9\u680f"
       ],
+      "settings\u0004Silence all notifications": [
+        "\u5173\u95ed\u6240\u6709\u901a\u77e5"
+      ],
       "settings\u0004Start mode: ``, `single`or `multiple`": [
         "\u542f\u52a8\u6a21\u5f0f\uff1a``\u3001`single` \u6216 `multiple`"
       ],
@@ -3372,6 +3590,9 @@
       "settings\u0004Synchronize collapse state": [
         "\u540c\u6b65\u6298\u53e0\u72b6\u6001"
       ],
+      "settings\u0004TSV Viewer": [
+        "TSV \u67e5\u770b\u5668"
+      ],
       "settings\u0004TSV viewer toolbar items": [
         "TSV \u67e5\u770b\u5668\u5de5\u5177\u680f\u9879\u76ee"
       ],
@@ -3390,8 +3611,8 @@
       "settings\u0004The CSS selector for the context menu item.": [
         "\u4e0a\u4e0b\u6587\u83dc\u5355\u9879\u7684 CSS \u9009\u62e9\u5668\u3002"
       ],
-      "settings\u0004The URI of the CDN to use for fetching full package data": [
-        "\u7528\u4e8e\u83b7\u53d6\u5b8c\u6574\u5305\u6570\u636e\u7684 CDN URI"
+      "settings\u0004The URI of the Content Delivery Network (CDN) to use for fetching full package data": [
+        "\u7528\u4e8e\u83b7\u53d6\u5b8c\u6574\u8f6f\u4ef6\u5305\u7684\u5185\u5bb9\u5206\u53d1\u7f51\u7edc (CDN) URI"
       ],
       "settings\u0004The URI of the NPM registry to use for searching for jupyterlab extensions": [
         "\u7528\u4e8e\u641c\u7d22 JupyterLab \u6269\u5c55\u65f6\u6240\u7528\u7684 NPM \u6e90 URI"
@@ -3446,9 +3667,6 @@
       ],
       "settings\u0004The maximum number of output cells to be rendered in the output area.": [
         "\u8f93\u51fa\u533a\u57df\u4e2d\u8f93\u51fa\u5355\u5143\u683c\u7684\u6700\u5927\u6570\u91cf\u3002"
-      ],
-      "settings\u0004The method for hiding widgets in the main dock panel. Using `scale` will increase performance on Firefox but don't use it with Chrome, Chromium or Edge.": [
-        "\u7528\u4e8e\u5728\u4e3b\u9762\u677f\u4e2d\u9690\u85cf\u5c0f\u7ec4\u4ef6\u7684\u65b9\u6cd5\u3002\u4f7f\u7528 `scale` \u4f1a\u63d0\u9ad8\u5728 Firefox \u4e2d\u7684\u6027\u80fd\uff0c\u4f46\u4e0d\u8981\u5728 Chrome\u3001Chromium \u6216 Edge \u4e2d\u4f7f\u7528\u5b83\u3002"
       ],
       "settings\u0004The mode under which JupyterLab should start. If empty, the mode will be imposed by the URL": [
         "JupyterLab \u7684\u542f\u52a8\u6a21\u5f0f\u3002\u5982\u679c\u4e3a\u7a7a\uff0c\u8be5\u6a21\u5f0f\u5c06\u4ece\u94fe\u63a5\u83b7\u53d6"
@@ -3513,14 +3731,14 @@
       "settings\u0004Whether the menu is disabled or not": [
         "\u65e0\u8bba\u83dc\u5355\u662f\u5426\u5df2\u7981\u7528"
       ],
-      "settings\u0004Whether the user understand that extensions managed through this interface run arbitrary code that may be dangerous": [
-        "\u7528\u6237\u662f\u5426\u7406\u89e3\u901a\u8fc7\u6b64\u63a5\u53e3\u7ba1\u7406\u7684\u6269\u5c55\u4f1a\u8fd0\u884c\u4efb\u610f\u4ee3\u7801\uff08\u8fd9\u4e9b\u4ee3\u7801\u53ef\u80fd\u5177\u6709\u5371\u9669\u6027\uff09"
-      ],
       "settings\u0004Whether to apply fuzzy algorithm while filtering on file names": [
         "\u8fc7\u6ee4\u6587\u4ef6\u540d\u65f6\u662f\u5426\u4f7f\u7528\u6a21\u7cca\u7b97\u6cd5"
       ],
       "settings\u0004Whether to apply the search on directories": [
         "\u662f\u5426\u5728\u76ee\u5f55\u4e0a\u8fdb\u884c\u641c\u7d22"
+      ],
+      "settings\u0004Whether to ask for confirmation to close a document or not.": [
+        "\u5173\u95ed\u4e00\u4e2a\u6587\u6863\u524d\u662f\u5426\u8fdb\u884c\u786e\u8ba4\u3002"
       ],
       "settings\u0004Whether to automatically navigate to a document's current directory": [
         "\u662f\u5426\u81ea\u52a8\u5bfc\u822a\u5230\u6587\u6863\u7684\u5f53\u524d\u76ee\u5f55"
@@ -3530,6 +3748,9 @@
       ],
       "settings\u0004Whether to be able to scroll so the last cell is at the top of the panel": [
         "\u662f\u5426\u80fd\u591f\u6eda\u52a8\u4ee5\u4f7f\u6700\u540e\u4e00\u4e2a\u5355\u5143\u683c\u4f4d\u4e8e\u9762\u677f\u7684\u9876\u7aef"
+      ],
+      "settings\u0004Whether to fetch news from Jupyter news feed. If `true`, it will make a request to a website.": [
+        "\u662f\u5426\u4ece Jupyter \u65b0\u95fb\u6e90\u83b7\u53d6\u65b0\u95fb\u3002\u5982\u679c\u8bbe\u7f6e\u4e3a `true`\uff0c\u5b83\u5c06\u5411\u7f51\u7ad9\u63d0\u51fa\u8bf7\u6c42\u3002"
       ],
       "settings\u0004Whether to flash on new log message or not": [
         "\u6709\u65b0\u65e5\u5fd7\u6d88\u606f\u65f6\u662f\u5426\u95ea\u70c1\uff1f"
@@ -3612,8 +3833,8 @@
       "waiting for fonts": [
         "\u6b63\u5728\u7b49\u5f85\u5b57\u4f53"
       ],
-      "\u00a9 2015-2022 Project Jupyter Contributors": [
-        "\u00a9 2015-2022 Jupyter \u9879\u76ee\u8d21\u732e\u8005"
+      "\u00a9 2015-2023 Project Jupyter Contributors": [
+        "\u00a9 2015-2023 Jupyter \u9879\u76ee\u8d21\u732e\u8005"
       ]
     },
     "jupyterlab_git": {

@@ -9,19 +9,19 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.9d892630a79065c7dc70.js",
+        "load": "static/remoteEntry.70c833341ac48a983a8c.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.cdf08c015a8192358158.js",
+        "load": "static/remoteEntry.b15a25cb741a6c7381f8.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/fasta-extension",
         "style": "./style"
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.f6be43672b078c208aab.js",
+        "load": "static/remoteEntry.6a76d3e37f02d3977b44.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
@@ -69,7 +69,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
+        "load": "static/remoteEntry.ade722230aea9b7793b2.js",
         "name": "bqplot"
       },
       {
@@ -81,13 +81,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.176149dcbfb677ea36fb.js",
+        "load": "static/remoteEntry.4d5ef87d14f03accc582.js",
         "name": "ipyevents"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a397b41514ddde5db0df.js",
+        "load": "static/remoteEntry.1479e7375eead669c0d0.js",
         "name": "jupyter-leaflet"
       },
       {
@@ -113,7 +113,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5cbfa1e4260a81a3d54b.js",
+        "load": "static/remoteEntry.d50eb71a2b1d4b9ee0b9.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },

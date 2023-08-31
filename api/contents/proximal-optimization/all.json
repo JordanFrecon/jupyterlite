@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-08-31T11:57:48.011821Z",
+      "format": null,
+      "last_modified": "2023-08-31T11:57:48.011821Z",
+      "mimetype": null,
+      "name": "total_variation",
+      "path": "proximal-optimization/total_variation",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-08-31T11:57:48.007821Z",
+  "format": "json",
+  "last_modified": "2023-08-31T11:57:48.007821Z",
+  "mimetype": null,
+  "name": "proximal-optimization",
+  "path": "proximal-optimization",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

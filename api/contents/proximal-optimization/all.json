@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2023-08-31T11:57:48.011821Z",
+      "created": "2024-01-11T13:36:12.495912Z",
       "format": null,
-      "last_modified": "2023-08-31T11:57:48.011821Z",
+      "last_modified": "2024-01-11T13:36:12.495912Z",
       "mimetype": null,
-      "name": "total_variation",
-      "path": "proximal-optimization/total_variation",
+      "name": "TD1",
+      "path": "proximal-optimization/TD1",
       "size": null,
       "type": "directory",
       "writable": true
     }
   ],
-  "created": "2023-08-31T11:57:48.007821Z",
+  "created": "2024-01-11T13:36:12.491912Z",
   "format": "json",
-  "last_modified": "2023-08-31T11:57:48.007821Z",
+  "last_modified": "2024-01-11T13:36:12.491912Z",
   "mimetype": null,
   "name": "proximal-optimization",
   "path": "proximal-optimization",

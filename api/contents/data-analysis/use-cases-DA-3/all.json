@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-01-11T13:36:12.487912Z",
+      "created": "2024-02-27T09:18:26.244058Z",
       "format": null,
-      "last_modified": "2024-01-11T13:35:13.941095Z",
+      "last_modified": "2024-02-27T09:17:14.579665Z",
       "mimetype": null,
       "name": "digits-recognition.ipynb",
       "path": "data-analysis/use-cases-DA-3/digits-recognition.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2024-01-11T13:36:12.487912Z",
+  "created": "2024-02-27T09:18:26.244058Z",
   "format": "json",
-  "last_modified": "2024-01-11T13:36:12.487912Z",
+  "last_modified": "2024-02-27T09:18:26.244058Z",
   "mimetype": null,
   "name": "use-cases-DA-3",
   "path": "data-analysis/use-cases-DA-3",

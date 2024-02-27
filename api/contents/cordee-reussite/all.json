@@ -2,32 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2024-01-11T13:36:12.467912Z",
+      "created": "2024-02-27T09:18:26.220058Z",
       "format": null,
-      "last_modified": "2024-01-11T13:35:13.921095Z",
-      "mimetype": null,
-      "name": "Cordee-de-la-reussite.ipynb",
-      "path": "cordee-reussite/Cordee-de-la-reussite.ipynb",
-      "size": 5582,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2024-01-11T13:36:12.467912Z",
-      "format": null,
-      "last_modified": "2024-01-11T13:35:13.921095Z",
+      "last_modified": "2024-02-27T09:17:14.559665Z",
       "mimetype": "text/x-python",
       "name": "quickstart_tutorial.py",
       "path": "cordee-reussite/quickstart_tutorial.py",
       "size": 676,
       "type": "file",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-02-27T09:18:26.220058Z",
+      "format": null,
+      "last_modified": "2024-02-27T09:17:14.559665Z",
+      "mimetype": null,
+      "name": "Cordee-de-la-reussite.ipynb",
+      "path": "cordee-reussite/Cordee-de-la-reussite.ipynb",
+      "size": 5582,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2024-01-11T13:36:12.467912Z",
+  "created": "2024-02-27T09:18:26.220058Z",
   "format": "json",
-  "last_modified": "2024-01-11T13:36:12.467912Z",
+  "last_modified": "2024-02-27T09:18:26.220058Z",
   "mimetype": null,
   "name": "cordee-reussite",
   "path": "cordee-reussite",

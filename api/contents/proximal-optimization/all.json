@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-02-27T09:18:26.248059Z",
+      "created": "2024-03-12T07:53:07.820213Z",
       "format": null,
-      "last_modified": "2024-02-27T09:18:26.248059Z",
+      "last_modified": "2024-03-12T07:53:07.820213Z",
       "mimetype": null,
       "name": "TD1",
       "path": "proximal-optimization/TD1",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2024-02-27T09:18:26.248059Z",
+  "created": "2024-03-12T07:53:07.820213Z",
   "format": "json",
-  "last_modified": "2024-02-27T09:18:26.248059Z",
+  "last_modified": "2024-03-12T07:53:07.820213Z",
   "mimetype": null,
   "name": "proximal-optimization",
   "path": "proximal-optimization",

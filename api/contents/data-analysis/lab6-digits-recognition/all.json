@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-03-12T07:53:07.820213Z",
+      "format": null,
+      "last_modified": "2024-03-12T07:52:08.792010Z",
+      "mimetype": "text/x-python",
+      "name": "utils.py",
+      "path": "data-analysis/lab6-digits-recognition/utils.py",
+      "size": 829,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-03-12T07:53:07.820213Z",
+      "format": null,
+      "last_modified": "2024-03-12T07:52:08.792010Z",
+      "mimetype": null,
+      "name": "lab6-digits-recognition.ipynb",
+      "path": "data-analysis/lab6-digits-recognition/lab6-digits-recognition.ipynb",
+      "size": 94783,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-03-12T07:53:07.820213Z",
+  "format": "json",
+  "last_modified": "2024-03-12T07:53:07.820213Z",
+  "mimetype": null,
+  "name": "lab6-digits-recognition",
+  "path": "data-analysis/lab6-digits-recognition",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

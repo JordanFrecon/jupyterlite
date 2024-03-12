@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-03-12T07:53:07.784213Z",
+      "format": null,
+      "last_modified": "2024-03-12T07:52:08.756010Z",
+      "mimetype": "text/tab-separated-values",
+      "name": "countries.tsv",
+      "path": "data-analysis/_old/session-1/data/countries.tsv",
+      "size": 81932,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-03-12T07:53:07.784213Z",
+  "format": "json",
+  "last_modified": "2024-03-12T07:53:07.784213Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "data-analysis/_old/session-1/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

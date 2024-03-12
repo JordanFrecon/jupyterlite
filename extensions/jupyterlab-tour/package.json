@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-tour",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "A JupyterLab UI Tour.",
   "keywords": [
     "jupyter",
@@ -119,7 +119,7 @@
     "schemaDir": "schema",
     "outputDir": "jupyterlab_tour/labextension",
     "_build": {
-      "load": "static/remoteEntry.0019166b17e173212a28.js",
+      "load": "static/remoteEntry.c48d7690a4adc05b4e31.js",
       "extension": "./extension",
       "style": "./style"
     }

@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Tutorial
         uses: actions/checkout@v4
         with:
-          repository: jupyterlite
+          repository: JordanFrecon/jupyterlite
           path: content
       - name: Setup Python
         uses: actions/setup-python@v2

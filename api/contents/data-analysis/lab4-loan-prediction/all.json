@@ -2,32 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2024-03-12T07:53:07.816213Z",
+      "created": "2024-10-22T08:11:23.560770Z",
       "format": null,
-      "last_modified": "2024-03-12T07:52:08.788010Z",
-      "mimetype": null,
-      "name": "lab4-loan-prediction.ipynb",
-      "path": "data-analysis/lab4-loan-prediction/lab4-loan-prediction.ipynb",
-      "size": 97918,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2024-03-12T07:53:07.816213Z",
-      "format": null,
-      "last_modified": "2024-03-12T07:52:08.788010Z",
+      "last_modified": "2024-10-22T08:10:31.212411Z",
       "mimetype": "text/csv",
       "name": "loan.csv",
       "path": "data-analysis/lab4-loan-prediction/loan.csv",
       "size": 259263,
       "type": "file",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:11:23.560770Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:10:31.212411Z",
+      "mimetype": null,
+      "name": "lab4-loan-prediction.ipynb",
+      "path": "data-analysis/lab4-loan-prediction/lab4-loan-prediction.ipynb",
+      "size": 97918,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2024-03-12T07:53:07.816213Z",
+  "created": "2024-10-22T08:11:23.560770Z",
   "format": "json",
-  "last_modified": "2024-03-12T07:53:07.816213Z",
+  "last_modified": "2024-10-22T08:11:23.560770Z",
   "mimetype": null,
   "name": "lab4-loan-prediction",
   "path": "data-analysis/lab4-loan-prediction",

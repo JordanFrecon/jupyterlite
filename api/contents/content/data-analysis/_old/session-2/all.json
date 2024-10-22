@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:37:09.401694Z",
+      "created": "2024-10-22T08:41:23.890187Z",
       "format": null,
-      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "last_modified": "2024-10-22T08:40:30.606257Z",
       "mimetype": null,
       "name": "session-2.ipynb",
       "path": "content/data-analysis/_old/session-2/session-2.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:37:09.401694Z",
+      "created": "2024-10-22T08:41:23.890187Z",
       "format": null,
-      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "last_modified": "2024-10-22T08:40:30.606257Z",
       "mimetype": "text/x-python",
       "name": "plots.py",
       "path": "content/data-analysis/_old/session-2/plots.py",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:37:09.401694Z",
+      "created": "2024-10-22T08:41:23.890187Z",
       "format": null,
-      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "last_modified": "2024-10-22T08:40:30.606257Z",
       "mimetype": "text/x-python",
       "name": "datasets.py",
       "path": "content/data-analysis/_old/session-2/datasets.py",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:37:09.401694Z",
+  "created": "2024-10-22T08:41:23.890187Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:37:09.401694Z",
+  "last_modified": "2024-10-22T08:41:23.890187Z",
   "mimetype": null,
   "name": "session-2",
   "path": "content/data-analysis/_old/session-2",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:37:09.441694Z",
+      "created": "2024-10-22T08:41:24.038187Z",
       "format": null,
-      "last_modified": "2024-10-22T08:36:17.309593Z",
+      "last_modified": "2024-10-22T08:40:30.842257Z",
       "mimetype": null,
       "name": "normality-test.ipynb",
       "path": "content/statistical-inference/normality-tests/normality-test.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:37:09.441694Z",
+  "created": "2024-10-22T08:41:24.038187Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:37:09.441694Z",
+  "last_modified": "2024-10-22T08:41:24.038187Z",
   "mimetype": null,
   "name": "normality-tests",
   "path": "content/statistical-inference/normality-tests",

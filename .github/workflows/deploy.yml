@@ -14,11 +14,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Checkout Tutorial
-        uses: actions/checkout@v4
-        with:
-          repository: JordanFrecon/jupyterlite
-          path: content
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -28,11 +23,11 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
-          jupyter lite build --contents content
+          jupyter lite build --contents .
       - name: Upload (dist)
         uses: actions/upload-artifact@v4
         with:
-          name: jupyterlite-demo-dist-${{ github.run_number }}
+          name: jupyterlite-demo-dist
           path: ./_output
 
   deploy:
@@ -41,16 +36,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
-          name: jupyterlite-demo-dist-${{ github.run_number }}
+          name: jupyterlite-demo-dist
           path: ./dist
       - name: Deploy
-        uses: JordanFrecon/github-pages-deploy-action@4.1.3
+        uses: peaceiris/actions-gh-pages@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
           branch: gh-pages
-          folder: dist

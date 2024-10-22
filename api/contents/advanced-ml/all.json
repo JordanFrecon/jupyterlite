@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:11:23.524770Z",
+      "created": "2024-10-22T08:16:36.615338Z",
       "format": null,
-      "last_modified": "2024-10-22T08:11:23.524770Z",
+      "last_modified": "2024-10-22T08:16:36.615338Z",
+      "mimetype": null,
+      "name": "1-proximal-optimization",
+      "path": "advanced-ml/1-proximal-optimization",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:16:36.719338Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:16:36.719338Z",
       "mimetype": null,
       "name": "2-adversarial-ml",
       "path": "advanced-ml/2-adversarial-ml",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:11:23.424769Z",
+  "created": "2024-10-22T08:16:36.619338Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:11:23.424769Z",
+  "last_modified": "2024-10-22T08:16:36.619338Z",
   "mimetype": null,
   "name": "advanced-ml",
   "path": "advanced-ml",

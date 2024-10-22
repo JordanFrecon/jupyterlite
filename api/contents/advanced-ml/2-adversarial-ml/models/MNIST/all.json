@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:11:23.464769Z",
+      "created": "2024-10-22T08:16:36.659338Z",
       "format": null,
-      "last_modified": "2024-10-22T08:10:31.180411Z",
+      "last_modified": "2024-10-22T08:15:41.739414Z",
       "mimetype": "application/vnd.snesdev-page-table",
       "name": "model_ciresan_mnist_id5.pt",
       "path": "advanced-ml/2-adversarial-ml/models/MNIST/model_ciresan_mnist_id5.pt",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:11:23.428769Z",
+  "created": "2024-10-22T08:16:36.623338Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:11:23.428769Z",
+  "last_modified": "2024-10-22T08:16:36.623338Z",
   "mimetype": null,
   "name": "MNIST",
   "path": "advanced-ml/2-adversarial-ml/models/MNIST",

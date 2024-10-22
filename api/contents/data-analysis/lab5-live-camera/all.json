@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:11:23.560770Z",
+      "created": "2024-10-22T08:16:36.759338Z",
       "format": null,
-      "last_modified": "2024-10-22T08:10:31.212411Z",
+      "last_modified": "2024-10-22T08:15:41.775414Z",
       "mimetype": "text/x-python",
       "name": "utils.py",
       "path": "data-analysis/lab5-live-camera/utils.py",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:11:23.560770Z",
+      "created": "2024-10-22T08:16:36.755338Z",
       "format": null,
-      "last_modified": "2024-10-22T08:10:31.212411Z",
+      "last_modified": "2024-10-22T08:15:41.775414Z",
       "mimetype": null,
       "name": "lab5-live-camera.ipynb",
       "path": "data-analysis/lab5-live-camera/lab5-live-camera.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:11:23.560770Z",
+      "created": "2024-10-22T08:16:36.755338Z",
       "format": null,
-      "last_modified": "2024-10-22T08:10:31.212411Z",
+      "last_modified": "2024-10-22T08:15:41.771415Z",
       "mimetype": "text/x-python",
       "name": "capture.py",
       "path": "data-analysis/lab5-live-camera/capture.py",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:11:23.560770Z",
+  "created": "2024-10-22T08:16:36.759338Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:11:23.560770Z",
+  "last_modified": "2024-10-22T08:16:36.759338Z",
   "mimetype": null,
   "name": "lab5-live-camera",
   "path": "data-analysis/lab5-live-camera",

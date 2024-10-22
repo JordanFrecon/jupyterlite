@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.807338Z",
+      "created": "2024-10-22T08:24:57.718223Z",
       "format": null,
-      "last_modified": "2024-10-22T08:15:41.847414Z",
+      "last_modified": "2024-10-22T08:24:02.142656Z",
       "mimetype": null,
       "name": "visualization.ipynb",
       "path": "statistical-inference/visualization/visualization.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:16:36.807338Z",
+  "created": "2024-10-22T08:24:57.718223Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:16:36.807338Z",
+  "last_modified": "2024-10-22T08:24:57.718223Z",
   "mimetype": null,
   "name": "visualization",
   "path": "statistical-inference/visualization",

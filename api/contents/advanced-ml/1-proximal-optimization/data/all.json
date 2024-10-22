@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.615338Z",
+      "created": "2024-10-22T08:24:57.530225Z",
       "format": null,
-      "last_modified": "2024-10-22T08:15:41.539415Z",
+      "last_modified": "2024-10-22T08:24:01.834659Z",
       "mimetype": "text/plain",
       "name": "data_description.txt",
       "path": "advanced-ml/1-proximal-optimization/data/data_description.txt",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.619338Z",
+      "created": "2024-10-22T08:24:57.530225Z",
       "format": null,
-      "last_modified": "2024-10-22T08:15:41.543415Z",
+      "last_modified": "2024-10-22T08:24:01.838659Z",
       "mimetype": "text/csv",
       "name": "test.csv",
       "path": "advanced-ml/1-proximal-optimization/data/test.csv",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.619338Z",
+      "created": "2024-10-22T08:24:57.530225Z",
       "format": null,
-      "last_modified": "2024-10-22T08:15:41.547415Z",
+      "last_modified": "2024-10-22T08:24:01.838659Z",
       "mimetype": "text/csv",
       "name": "train.csv",
       "path": "advanced-ml/1-proximal-optimization/data/train.csv",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:16:36.619338Z",
+  "created": "2024-10-22T08:24:57.530225Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:16:36.619338Z",
+  "last_modified": "2024-10-22T08:24:57.530225Z",
   "mimetype": null,
   "name": "data",
   "path": "advanced-ml/1-proximal-optimization/data",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.759338Z",
+      "created": "2024-10-22T08:24:57.670224Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:36.759338Z",
+      "last_modified": "2024-10-22T08:24:57.670224Z",
       "mimetype": null,
       "name": "data-analysis",
       "path": "data-analysis",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.723338Z",
+      "created": "2024-10-22T08:24:57.634224Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:36.723338Z",
+      "last_modified": "2024-10-22T08:24:57.634224Z",
       "mimetype": null,
       "name": "cordee-reussite",
       "path": "cordee-reussite",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.807338Z",
+      "created": "2024-10-22T08:24:57.718223Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:36.807338Z",
+      "last_modified": "2024-10-22T08:24:57.718223Z",
       "mimetype": null,
       "name": "statistical-inference",
       "path": "statistical-inference",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.615338Z",
+      "created": "2024-10-22T08:24:57.526225Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:34.355341Z",
+      "last_modified": "2024-10-22T08:24:55.422244Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.759338Z",
+      "created": "2024-10-22T08:24:57.670224Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:36.759338Z",
+      "last_modified": "2024-10-22T08:24:57.670224Z",
       "mimetype": null,
       "name": "proximal-optimization",
       "path": "proximal-optimization",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2024-10-22T08:16:36.619338Z",
+      "created": "2024-10-22T08:24:57.534225Z",
       "format": null,
-      "last_modified": "2024-10-22T08:16:36.619338Z",
+      "last_modified": "2024-10-22T08:24:57.534225Z",
       "mimetype": null,
       "name": "advanced-ml",
       "path": "advanced-ml",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2024-10-22T08:16:36.763338Z",
+  "created": "2024-10-22T08:24:57.678224Z",
   "format": "json",
-  "last_modified": "2024-10-22T08:16:36.763338Z",
+  "last_modified": "2024-10-22T08:24:57.678224Z",
   "mimetype": null,
   "name": "",
   "path": "",

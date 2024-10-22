@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.417694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.289593Z",
+      "mimetype": null,
+      "name": "digits-recognition.ipynb",
+      "path": "content/data-analysis/_old/use-cases-DA-3/digits-recognition.ipynb",
+      "size": 4514,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-22T08:37:09.417694Z",
+  "format": "json",
+  "last_modified": "2024-10-22T08:37:09.417694Z",
+  "mimetype": null,
+  "name": "use-cases-DA-3",
+  "path": "content/data-analysis/_old/use-cases-DA-3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

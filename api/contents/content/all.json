@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.433694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.433694Z",
+      "mimetype": null,
+      "name": "data-analysis",
+      "path": "content/data-analysis",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.397694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.397694Z",
+      "mimetype": null,
+      "name": "cordee-reussite",
+      "path": "content/cordee-reussite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.481694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.481694Z",
+      "mimetype": null,
+      "name": "statistical-inference",
+      "path": "content/statistical-inference",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.433694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.433694Z",
+      "mimetype": null,
+      "name": "proximal-optimization",
+      "path": "content/proximal-optimization",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.293694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.293694Z",
+      "mimetype": null,
+      "name": "advanced-ml",
+      "path": "content/advanced-ml",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-22T08:37:09.437694Z",
+  "format": "json",
+  "last_modified": "2024-10-22T08:37:09.437694Z",
+  "mimetype": null,
+  "name": "content",
+  "path": "content",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

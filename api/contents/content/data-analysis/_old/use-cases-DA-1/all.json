@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.409694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.289593Z",
+      "mimetype": "text/csv",
+      "name": "video_games_sales.csv",
+      "path": "content/data-analysis/_old/use-cases-DA-1/video_games_sales.csv",
+      "size": 1618040,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.405694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "mimetype": null,
+      "name": "1-telecom-client.ipynb",
+      "path": "content/data-analysis/_old/use-cases-DA-1/1-telecom-client.ipynb",
+      "size": 6446,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.409694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "mimetype": null,
+      "name": "2-video-games-sales.ipynb",
+      "path": "content/data-analysis/_old/use-cases-DA-1/2-video-games-sales.ipynb",
+      "size": 4811,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.409694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.277593Z",
+      "mimetype": "text/csv",
+      "name": "telecom_client.csv",
+      "path": "content/data-analysis/_old/use-cases-DA-1/telecom_client.csv",
+      "size": 280003,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-22T08:37:09.409694Z",
+  "format": "json",
+  "last_modified": "2024-10-22T08:37:09.409694Z",
+  "mimetype": null,
+  "name": "use-cases-DA-1",
+  "path": "content/data-analysis/_old/use-cases-DA-1",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

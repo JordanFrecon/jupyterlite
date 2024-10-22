@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": "text/x-python",
+      "name": "module.py",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/module.py",
+      "size": 2580,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.293694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": null,
+      "name": "LICENSE",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/LICENSE",
+      "size": 1065,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": "text/x-python",
+      "name": "data.py",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/data.py",
+      "size": 2757,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.297694Z",
+      "mimetype": null,
+      "name": "cifar10_models",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/cifar10_models",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.293694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/README.md",
+      "size": 3253,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": "text/x-python",
+      "name": "train.py",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/train.py",
+      "size": 2852,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": "text/x-python",
+      "name": "schduler.py",
+      "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10/schduler.py",
+      "size": 5288,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-22T08:37:09.297694Z",
+  "format": "json",
+  "last_modified": "2024-10-22T08:37:09.297694Z",
+  "mimetype": null,
+  "name": "CIFAR10",
+  "path": "content/advanced-ml/2-adversarial-ml/models/CIFAR10",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

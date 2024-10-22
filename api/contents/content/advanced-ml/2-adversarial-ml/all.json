@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.297694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:37:09.297694Z",
+      "mimetype": null,
+      "name": "models",
+      "path": "content/advanced-ml/2-adversarial-ml/models",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.393694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.269593Z",
+      "mimetype": "text/x-python",
+      "name": "utils.py",
+      "path": "content/advanced-ml/2-adversarial-ml/utils.py",
+      "size": 2504,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-10-22T08:37:09.293694Z",
+      "format": null,
+      "last_modified": "2024-10-22T08:36:17.073593Z",
+      "mimetype": null,
+      "name": "adversarial-learning.ipynb",
+      "path": "content/advanced-ml/2-adversarial-ml/adversarial-learning.ipynb",
+      "size": 24841,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-10-22T08:37:09.393694Z",
+  "format": "json",
+  "last_modified": "2024-10-22T08:37:09.393694Z",
+  "mimetype": null,
+  "name": "2-adversarial-ml",
+  "path": "content/advanced-ml/2-adversarial-ml",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

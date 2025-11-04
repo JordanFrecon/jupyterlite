@@ -4,30 +4,22 @@ ipyevents>=2.0.1
 ipyleaflet
 ipympl>=0.8.2
 ipywidgets>=7.7,<8
-
-# Force JupyterLab 3.x (your Lite already embeds 3.4.3)
-jupyterlab>=3,<4
-
-# Extensions pinned to JLab 3-compatible versions
-jupyterlab-drawio<1            # drawio: JupyterLab >=3.0, so stay in the 0.x series :contentReference[oaicite:4]{index=4}
-jupyterlab-language-pack-fr-FR<4
-jupyterlab-language-pack-zh-CN<4
-jupyterlab-fasta>=3,<4         # you already had this right
-jupyterlab-geojson>=3,<4       # idem
-
-# Tour: avoid the 4.x line which is built for JLab 4
-jupyterlab-tour<4              # 3.x was used with the official 0.1.x demo :contentReference[oaicite:5]{index=5}
-
-# Theme: keep the JLab 3-compatible version
-jupyterlab_miami_nights<1
-
-# JupyterLite + legacy kernels that need 0.1.x
+jupyterlab>=3.6.7
+jupyterlab-drawio
+jupyterlab-language-pack-fr-FR
+jupyterlab-language-pack-zh-CN
+jupyterlab-fasta>=3,<4
+jupyterlab-geojson>=3,<4
+jupyterlab-tour
+jupyterlab_miami_nights
 jupyterlite==0.1.0b10
-jupyterlite-p5-kernel==0.1.0a12   # requires JupyterLite 0.1.0a10+ :contentReference[oaicite:6]{index=6}
-jupyterlite-xeus-lua==0.3.1       # requires JupyterLite >=0.1.0a14 :contentReference[oaicite:7]{index=7}
+jupyterlite-p5-kernel==0.1.0a12
+jupyterlite-xeus-lua==0.3.1
 jupyterlite-xeus-wren==0.2.1
-jupyterlite-xeus-sqlite==0.2.1    # also targets 0.1.x :contentReference[oaicite:8]{index=8}
-
+jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
+
+
+
 
